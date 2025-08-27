@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW-Day02Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095CF136-B71D-41D6-8C61-6F39CC7DBBF9}|LTW-Day02Lab.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw-day02lab\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095CF136-B71D-41D6-8C61-6F39CC7DBBF9}|LTW-Day02Lab.csproj|solutionrelative:controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095CF136-B71D-41D6-8C61-6F39CC7DBBF9}|LTW-Day02Lab.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw-day02lab\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095CF136-B71D-41D6-8C61-6F39CC7DBBF9}|LTW-Day02Lab.csproj|solutionrelative:controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095CF136-B71D-41D6-8C61-6F39CC7DBBF9}|LTW-Day02Lab.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw-day02lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095CF136-B71D-41D6-8C61-6F39CC7DBBF9}|LTW-Day02Lab.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW-Day02Lab\\Controllers\\SecondController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecondController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW-Day02Lab\\Controllers\\SecondController.cs",
+              "RelativeToolTip": "Controllers\\SecondController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:54:44.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW-Day02Lab\\Controllers\\FirstController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FirstController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW-Day02Lab\\Controllers\\FirstController.cs",
+              "RelativeToolTip": "Controllers\\FirstController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:50:31.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW-Day02Lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW-Day02Lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:41:58.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
