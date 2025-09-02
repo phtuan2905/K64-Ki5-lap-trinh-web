@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LTW_Day03Lab_BTTL.props" />
+</Project>

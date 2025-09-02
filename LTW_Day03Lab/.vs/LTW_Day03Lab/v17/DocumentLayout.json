@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw_day03lab\\ltw_day03lab_bttl\\views\\shared\\default_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|solutionrelative:ltw_day03lab_bttl\\views\\shared\\default_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw_day03lab\\ltw_day03lab_bttl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|solutionrelative:ltw_day03lab_bttl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw_day03lab\\ltw_day03lab_bttl\\views\\shared\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|solutionrelative:ltw_day03lab_bttl\\views\\shared\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw_day03lab\\ltw_day03lab_bttl\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6661E09-0E04-43D8-99A2-0ED826D2CE35}|LTW_Day03Lab_BTTL\\LTW_Day03Lab_BTTL.csproj|solutionrelative:ltw_day03lab_bttl\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default_layout.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\Views\\Shared\\Default_layout.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day03Lab_BTTL\\Views\\Shared\\Default_layout.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\Views\\Shared\\Default_layout.cshtml",
+              "RelativeToolTip": "LTW_Day03Lab_BTTL\\Views\\Shared\\Default_layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T06:04:09.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTypes.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day03Lab_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "RelativeToolTip": "LTW_Day03Lab_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T06:00:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotProductViewComponent.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\ViewComponents\\HotProductViewComponent.cs",
+              "RelativeDocumentMoniker": "LTW_Day03Lab_BTTL\\ViewComponents\\HotProductViewComponent.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\ViewComponents\\HotProductViewComponent.cs",
+              "RelativeToolTip": "LTW_Day03Lab_BTTL\\ViewComponents\\HotProductViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:56:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day03Lab_BTTL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day03Lab\\LTW_Day03Lab_BTTL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LTW_Day03Lab_BTTL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T04:31:32.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

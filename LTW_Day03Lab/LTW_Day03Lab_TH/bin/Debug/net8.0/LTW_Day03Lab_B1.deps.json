@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LTW_Day03Lab_B1/1.0.0": {
+        "runtime": {
+          "LTW_Day03Lab_B1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LTW_Day03Lab_B1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
