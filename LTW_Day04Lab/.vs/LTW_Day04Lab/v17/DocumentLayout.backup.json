@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day04Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC8C34-1ABE-445E-8791-FFF30941B15E}|LTW_Day04Lab_TH\\LTW_Day04Lab_TH.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw_day04lab\\ltw_day04lab_th\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2DC8C34-1ABE-445E-8791-FFF30941B15E}|LTW_Day04Lab_TH\\LTW_Day04Lab_TH.csproj|solutionrelative:ltw_day04lab_th\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC8C34-1ABE-445E-8791-FFF30941B15E}|LTW_Day04Lab_TH\\LTW_Day04Lab_TH.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw_day04lab\\ltw_day04lab_th\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC8C34-1ABE-445E-8791-FFF30941B15E}|LTW_Day04Lab_TH\\LTW_Day04Lab_TH.csproj|solutionrelative:ltw_day04lab_th\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC8C34-1ABE-445E-8791-FFF30941B15E}|LTW_Day04Lab_TH\\LTW_Day04Lab_TH.csproj|e:\\onedrive\\desktop\\vsstudio\\k64-ki5-lap-trinh-web\\ltw_day04lab\\ltw_day04lab_th\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2DC8C34-1ABE-445E-8791-FFF30941B15E}|LTW_Day04Lab_TH\\LTW_Day04Lab_TH.csproj|solutionrelative:ltw_day04lab_th\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sidebar.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day04Lab\\LTW_Day04Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day04Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day04Lab\\LTW_Day04Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "RelativeToolTip": "LTW_Day04Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T03:40:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day04Lab\\LTW_Day04Lab_TH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LTW_Day04Lab_TH\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day04Lab\\LTW_Day04Lab_TH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LTW_Day04Lab_TH\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:38:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day04Lab\\LTW_Day04Lab_TH\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day04Lab_TH\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day04Lab\\LTW_Day04Lab_TH\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "LTW_Day04Lab_TH\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T01:52:22.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
