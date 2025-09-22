@@ -1,0 +1,1165 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LTW_Day05Lab_TH.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LTW_Day05Lab_TH.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\adminlte.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\adminltelogo.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\adminltelogo.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\avatar.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\avatar2.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\avatar3.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\avatar4.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\avatar5.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\default-150x150.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\photo1.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\photo2.png"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\adminlte.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\demo.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\demo.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\demo.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\pages\\dashboard.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\pages\\dashboard.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\pages\\dashboard2.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\pages\\dashboard2.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\admin-lte\\js\\pages\\dashboard3.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin-lte\\js\\pages\\dashboard3.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_code.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_media.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_print.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap-v4\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\svg.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\svg.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\OneDrive\\Desktop\\VsStudio\\K64-Ki5-lap-trinh-web\\LTW_Day05Lab\\LTW_Day05Lab_TH\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LTW_Day05Lab_TH.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LTW_Day05Lab_TH.props",
+      "PackagePath": "build\\LTW_Day05Lab_TH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LTW_Day05Lab_TH.props",
+      "PackagePath": "buildMultiTargeting\\LTW_Day05Lab_TH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LTW_Day05Lab_TH.props",
+      "PackagePath": "buildTransitive\\LTW_Day05Lab_TH.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
