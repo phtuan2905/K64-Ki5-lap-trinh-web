@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LTW_Day06Annotation_TH.props" />
+</Project>

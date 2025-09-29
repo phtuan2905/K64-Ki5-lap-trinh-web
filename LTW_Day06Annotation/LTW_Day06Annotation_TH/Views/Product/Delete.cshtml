@@ -1,0 +1,77 @@
+﻿@model LTW_Day06Annotation_TH.Models.ProductModel;
+
+@{
+	ViewData["Title"] = "Delete";
+}
+
+<h2>Product</h2>
+<h3>Delete</h3>
+<hr />
+<table class="table-bordered product-table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.Id)</th>
+            <th>@Html.DisplayNameFor(m => m.Name)</th>
+            <th>@Html.DisplayNameFor(m => m.Image)</th>
+            <th>@Html.DisplayNameFor(m => m.Price)</th>
+            <th>@Html.DisplayNameFor(m => m.SalePrice)</th>
+            <th>@Html.DisplayNameFor(m => m.Description)</th>
+            <th>@Html.DisplayNameFor(m => m.CategoryId)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Model.Id
+            </td>
+            <td>
+                @Model.Name
+            </td>
+            <td>
+                <img src="@Model.Image" alt="Image"/>
+            </td>
+            <td>
+                @Model.Price
+            </td>
+            <td>
+                @Model.SalePrice
+            </td>
+            <td>
+                @Model.Description
+            </td>
+            @foreach (var c in ViewBag.Categories)
+            {
+                if (@Model.CategoryId == c.Id)
+                {
+                    <td>
+                        @c.Name
+                    </td>
+                    break;
+                }
+            }
+        </tr>
+    </tbody>
+</table>
+<form asp-action="Delete" asp-route-id="@Model.Id" method="post">
+	<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group" style="display: none; visibility: hidden">
+        <input name="None" class="form-control" type="number"/>
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div>
+	<hr />
+	<div class="form-group">
+		<input type="submit" value="Delete" class="btn btn-danger" />
+	</div>
+</form>
+<div>
+    <a asp-action="Index">Back to Product list</a>
+</div>
+<style>
+    .product-table {
+        width: 100%;
+    }
+    .product-table img {
+        width: 100px;
+        height: auto;
+    }
+</style>

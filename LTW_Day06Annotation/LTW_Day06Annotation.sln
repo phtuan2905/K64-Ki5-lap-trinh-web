@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTW_Day06Annotation_TH", "LTW_Day06Annotation_TH\LTW_Day06Annotation_TH.csproj", "{EFB41409-CF95-4527-A8A4-B9C550969BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB41409-CF95-4527-A8A4-B9C550969BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB41409-CF95-4527-A8A4-B9C550969BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB41409-CF95-4527-A8A4-B9C550969BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB41409-CF95-4527-A8A4-B9C550969BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824EE089-23F6-4F3B-865F-760B389095BB}
+	EndGlobalSection
+EndGlobal

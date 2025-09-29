@@ -1,0 +1,48 @@
+﻿@model LTW_Day06Annotation_TH.Models.ProductModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Product</h2>
+<h3>Details</h3>
+<a asp-action="Index">Back to Product list</a>
+<hr />
+<table class="table-bordered product-table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.Id)</th>
+            <th>@Html.DisplayNameFor(m => m.Name)</th>
+            <th>@Html.DisplayNameFor(m => m.Image)</th>
+            <th>@Html.DisplayNameFor(m => m.Price)</th>
+            <th>@Html.DisplayNameFor(m => m.SalePrice)</th>
+            <th>@Html.DisplayNameFor(m => m.Description)</th>
+            <th>@Html.DisplayNameFor(m => m.CategoryId)</th>
+            <th>Chỉnh sửa</th>
+            <th>Xóa</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.Name</td>
+            <td><img src="@Model.Image" alt="Alternate Text" /></td>
+            <td>@Model.Price</td>
+            <td>@Model.SalePrice</td>
+            <td>@Model.Description</td>
+            <td>@Model</td>
+            <td><a asp-r asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">✏️</a></td>
+            <td><a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">🗑️</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<style>
+    .product-table {
+        width: 100%;
+    }
+    .product-table img {
+        width: 100px;
+        height: auto;
+    }
+</style>
