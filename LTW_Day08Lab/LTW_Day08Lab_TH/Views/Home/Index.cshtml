@@ -1,0 +1,78 @@
+﻿@model IEnumerable<LTW_Day08Lab_TH.Models.Banner>
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<section class="banner">
+    <div class="banner-content">
+        <h1>Microsoft Azure</h1>
+
+        <div class="banner-icons">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo">
+            @foreach (var item in Model)
+            {
+                <img src="@Url.Content(item.Image)" alt="Product Image" width="100" />
+            }
+        </div>
+
+        <p>
+            Learn how Microsoft's Azure cloud platform allows you to build, deploy, and scale web apps.
+        </p>
+        <button>Learn More</button>
+    </div>
+</section>
+
+<style>
+
+    /* ===== Banner Section ===== */
+    .banner {
+        width: 100%;
+        background: linear-gradient(to right, #68aeff, #9ac9ff);
+        text-align: center;
+    }
+
+    .banner-content {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .banner h1 {
+      font-size: 40px;
+      margin-bottom: 30px;
+    }
+
+    .banner-icons {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 25px;
+      margin-bottom: 25px;
+      flex-wrap: wrap;
+    }
+
+    .banner-icons img {
+      width: 60px;
+      height: 60px;
+    }
+
+    .banner p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .banner button {
+      background: #fff;
+      color: #0b4fad;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      font-size: 15px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .banner button:hover {
+      background: #e6e6e6;
+    }
+</style>

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day07Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day07lab\\ltw_day07_th\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|solutionrelative:ltw_day07_th\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day07lab\\ltw_day07_th\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A528D7-13D9-406A-A210-E43DDA486CF0}|LTW_Day07_TH\\LTW_Day07_TH.csproj|solutionrelative:ltw_day07_th\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CtHoaDonsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day07Lab\\LTW_Day07_TH\\Controllers\\CtHoaDonsController.cs",
+              "RelativeDocumentMoniker": "LTW_Day07_TH\\Controllers\\CtHoaDonsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day07Lab\\LTW_Day07_TH\\Controllers\\CtHoaDonsController.cs",
+              "RelativeToolTip": "LTW_Day07_TH\\Controllers\\CtHoaDonsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:35:00.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "QuanTrisController.cs",
               "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day07Lab\\LTW_Day07_TH\\Controllers\\QuanTrisController.cs",
               "RelativeDocumentMoniker": "LTW_Day07_TH\\Controllers\\QuanTrisController.cs",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "LTW_Day07_TH\\Controllers\\QuanTrisController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:12:42.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T15:12:42.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "K64cnt2dbContext.cs",
               "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day07Lab\\LTW_Day07_TH\\Models\\K64cnt2dbContext.cs",
               "RelativeDocumentMoniker": "LTW_Day07_TH\\Models\\K64cnt2dbContext.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "LTW_Day07_TH\\Models\\K64cnt2dbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:04:11.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T15:04:11.954Z"
             }
           ]
         }

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day08lab\\ltw_day08lab_studentmanager\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day08lab\\ltw_day08lab_studentmanager\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6057CCD-CD55-4A16-9BA6-8F82D9B73BA1}|LTW_Day08Lab_StudentManager\\LTW_Day08Lab_StudentManager.csproj|solutionrelative:ltw_day08lab_studentmanager\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarksController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Controllers\\MarksController.cs",
+              "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\Controllers\\MarksController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Controllers\\MarksController.cs",
+              "RelativeToolTip": "LTW_Day08Lab_StudentManager\\Controllers\\MarksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:25:49.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marks.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
+              "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
+              "RelativeToolTip": "LTW_Day08Lab_StudentManager\\Models\\Marks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:59:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
+              "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
+              "RelativeToolTip": "LTW_Day08Lab_StudentManager\\Models\\Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:57:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LTW_Day08Lab_StudentManager\\Models\\Student.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day08Lab\\LTW_Day08Lab_StudentManager\\Models\\Student.cs",
+              "RelativeToolTip": "LTW_Day08Lab_StudentManager\\Models\\Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:34:48.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
