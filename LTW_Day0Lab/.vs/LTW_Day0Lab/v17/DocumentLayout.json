@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\entities\\shoppingcartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\entities\\shoppingcartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|e:\\onedrive\\desktop\\dh\\k64-ki5-lap-trinh-web\\ltw_day0lab\\ltw_day0lab_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2416BC8E-31CE-4F06-854A-25CBA84DE431}|LTW_Day0Lab_CodeFirst\\LTW_Day0Lab_CodeFirst.csproj|solutionrelative:ltw_day0lab_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:22:59.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanTrisController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:22:22.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:21:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:20:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:20:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CtHoaDonsController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\CtHoaDonsController.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Controllers\\CtHoaDonsController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Controllers\\CtHoaDonsController.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Controllers\\CtHoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:20:07.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Program.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Program.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:15:30.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartDbContext.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Entities\\ShoppingCartDbContext.cs",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\Entities\\ShoppingCartDbContext.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\Entities\\ShoppingCartDbContext.cs",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\Entities\\ShoppingCartDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:09:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "LTW_Day0Lab_CodeFirst\\appsettings.json",
+              "ToolTip": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_CodeFirst\\appsettings.json",
+              "RelativeToolTip": "LTW_Day0Lab_CodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T01:58:20.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
