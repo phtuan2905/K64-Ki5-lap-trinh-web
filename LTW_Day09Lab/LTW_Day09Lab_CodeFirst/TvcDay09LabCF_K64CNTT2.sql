@@ -1,0 +1,3 @@
+create database TvcDay09LabCF_K64CNTT2
+
+use TvcDay09LabCF_K64CNTT2
