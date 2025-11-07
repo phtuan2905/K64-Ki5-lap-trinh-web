@@ -1,0 +1,64 @@
+﻿<style>
+
+    h1 {
+        margin-bottom: 30px;
+        color: #333;
+    }
+
+    .color-buttons {
+        display: flex;
+        gap: 15px;
+        margin-bottom: 40px;
+    }
+
+    .color-btn {
+        width: 60px;
+        height: 60px;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .color-btn:hover {
+        transform: scale(1.1);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .color-bar {
+        width: 100%;
+        height: 50px;
+        background: #ddd;
+        transition: background 0.3s ease;
+    }
+
+    /* Các màu */
+    .red { background: #e74c3c; }
+    .green { background: #2ecc71; }
+    .blue { background: #3498db; }
+    .yellow { background: #f1c40f; }
+    .gray { background: #7f8c8d; }
+    .purple { background: #9b59b6; }
+</style>
+<h1>🎨 Chọn màu</h1>
+
+<div class="color-buttons">
+    <button class="color-btn red" data-color="#e74c3c"></button>
+    <button class="color-btn green" data-color="#2ecc71"></button>
+    <button class="color-btn blue" data-color="#3498db"></button>
+    <button class="color-btn yellow" data-color="#f1c40f"></button>
+    <button class="color-btn gray" data-color="#7f8c8d"></button>
+    <button class="color-btn purple" data-color="#9b59b6"></button>
+</div>
+
+<div class="color-bar" id="colorBar"></div>
+
+<script>
+    $(document).ready(function() {
+        $('.color-btn').click(function() {
+            const color = $(this).attr('data-color');
+            alert(color)
+            $('.color-bar').css('background-color', color);
+        })
+    });
+</script>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LTW_Day12Lab_TH1.props" />
+</Project>

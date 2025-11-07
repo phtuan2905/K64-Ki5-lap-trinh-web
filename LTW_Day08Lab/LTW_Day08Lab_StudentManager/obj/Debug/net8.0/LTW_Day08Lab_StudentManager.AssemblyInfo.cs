@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LTW_Day08Lab_StudentManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+048edaf9ea7b635d1c1d5fbf24aebbe609c35e82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85181422e23cb2caa6f9fd2f867d5fd97b176526")]
 [assembly: System.Reflection.AssemblyProductAttribute("LTW_Day08Lab_StudentManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LTW_Day08Lab_StudentManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

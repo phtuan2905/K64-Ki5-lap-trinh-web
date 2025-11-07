@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LTW_Day0Lab_CodeFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b6b21b213285729efac80be846c9eca565a92e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f67aae869b053252eca3cbbfa7b93cb586e14aea")]
 [assembly: System.Reflection.AssemblyProductAttribute("LTW_Day0Lab_CodeFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LTW_Day0Lab_CodeFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

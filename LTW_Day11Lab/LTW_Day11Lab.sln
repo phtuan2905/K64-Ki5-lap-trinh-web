@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTW_Day11Lab_TL", "LTW_Day11Lab_TL\LTW_Day11Lab_TL.csproj", "{3AF33A50-F5BD-4C54-A1A4-1E2C217059EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF33A50-F5BD-4C54-A1A4-1E2C217059EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF33A50-F5BD-4C54-A1A4-1E2C217059EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF33A50-F5BD-4C54-A1A4-1E2C217059EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF33A50-F5BD-4C54-A1A4-1E2C217059EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DB14DF-A4E7-40AA-97E7-D2F0873CD3FB}
+	EndGlobalSection
+EndGlobal

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\K64_Ki5_laptringweb\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj": {}
   },
   "projects": {
-    "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj": {
+    "C:\\Users\\Admin\\Desktop\\K64_Ki5_laptringweb\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\K64_Ki5_laptringweb\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj",
         "projectName": "LTW_Day0Lab_DatabaseFirst",
-        "projectPath": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj",
-        "packagesPath": "C:\\Users\\phtua\\.nuget\\packages\\",
-        "outputPath": "E:\\OneDrive\\Desktop\\DH\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\K64_Ki5_laptringweb\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\K64_Ki5_laptringweb\\K64-Ki5-lap-trinh-web\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\phtua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

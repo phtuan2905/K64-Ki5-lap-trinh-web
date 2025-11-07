@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LTW_Day0Lab_DatabaseFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b6b21b213285729efac80be846c9eca565a92e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85181422e23cb2caa6f9fd2f867d5fd97b176526")]
 [assembly: System.Reflection.AssemblyProductAttribute("LTW_Day0Lab_DatabaseFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LTW_Day0Lab_DatabaseFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
