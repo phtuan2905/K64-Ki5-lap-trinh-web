@@ -1,0 +1,26 @@
+@model HangHoa
+
+<div>
+    Pham Minh Tuan
+</div>
+
+<hr>
+
+<form asp-action="Create" method="post" class="row">
+    <label for="MaLoai">Ma loai</label>
+    <select name="MaLoai" id="ma-loai" asp-items="@ViewBag.loaihangs" asp-for="MaLoai">
+    
+    </select>
+
+    <label for="TenHang">Ten hang</label>
+    <input asp-for="TenHang" type="text" name="TenHang" id="ten-hang">
+
+    <label for="Gia">Gia</label>
+    <input asp-for="Gia" type="number" name="Gia" id="gia" min="0">
+
+    <label for="Anh">Anh</label>
+    <input asp-for="Anh" type="text" name="Anh" id="anh">
+
+    <button type="submit">Create</button>
+
+</form>

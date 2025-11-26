@@ -1,0 +1,26 @@
+@model HangHoa
+
+@{
+    Layout = "PhamMinhTuan_Layout";
+}
+
+<h1>Pham Minh Tuan</h1>
+<h1>Them Hang hoa</h1>
+<hr>
+<div>
+    <form asp-action="Create" method="post" style="display: row">
+        <label for="MaLoai">Ma loai</label>
+        <select asp-for="MaLoai" name="MaLoai" id="ma-loai" asp-items="@ViewBag.LoaiHangs"></select>
+
+        <label for="TenHang">Ten hang</label>
+        <input asp-for="TenHang" type="text" name="TenHang" id="ten-hang">
+
+        <label for="Gia">Gia</label>
+        <input asp-for="Gia" type="number" name="Gia" id="gia" min="0">
+
+        <label for="Anh">Anh</label>
+        <input asp-for="Anh" type="text" name="Anh" id="anh">
+
+        <button type="submit">Create</button>
+    </form>
+</div>

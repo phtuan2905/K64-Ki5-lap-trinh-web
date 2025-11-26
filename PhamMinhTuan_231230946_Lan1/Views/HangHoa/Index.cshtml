@@ -1,0 +1,46 @@
+@using System.Collections
+@model IEnumerable<HangHoa>
+
+<div class="content_top">
+    <div class="heading">
+        <h3>Pham Minh Tuan</h3>
+    </div>
+    <div class="see">
+        <p><a href="#">See all Products</a></p>
+    </div>
+    <div class="clear"></div>
+</div>
+<div id="content-container">
+    <div class="section group">
+        @foreach (var h in @Model) {
+            <div class="grid_1_of_4 images_1_of_4">
+                    <a><img src="Content/images/@h.Anh" alt="@h.TenHang" /></a>
+                    <h2>@h.TenHang</h2>
+                <div class="price-details">
+                    <div class="price-number">
+                        <p><span class="rupees">$@h.Gia</span></p>
+                    </div>
+                            <div class="add-cart">								
+                                <h4><a href="preview.html">Add to Cart</a></h4>
+                                </div>
+                            <div class="clear"></div>
+                </div>					 
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $('li.filter').click(function (e) {
+            var id = $(this).attr('id');
+            $.ajax({
+                url: "HangHoa/Filter",
+                data: {mlh: id},
+                success: function(res) {
+                    $("#content-container").html(res);
+                }
+            });
+        });
+    </script>
+}
