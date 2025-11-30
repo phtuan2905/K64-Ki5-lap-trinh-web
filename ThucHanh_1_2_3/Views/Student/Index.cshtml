@@ -1,0 +1,66 @@
+@model IEnumerable<Student>
+
+<div class="container mt-5">
+
+    <div class="d-flex justify-content-between mb-3">
+        <h2 class="fw-bold">Student List</h2>
+        <a asp-action="Create" class="btn btn-primary">Create Student</a>
+    </div>
+
+    <table class="table table-bordered table-hover rounded shadow-sm bg-white">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Branch</th>
+                <th>Gender</th>
+                <th>Regular?</th>
+                <th>Address</th>
+                <th>Date of Birth</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model) {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td>@s.Email</td>
+                    <td>
+                        @{
+                            var b = "";
+                            switch (s.Branch) {
+                                case Branch.IT:
+                                    b = "Cong nghe thong tin";
+                                    break;
+                                case Branch.BE:
+                                    b = "Kinh te";
+                                    break;
+                                case Branch.CE:
+                                    b = "Cong trinh";
+                                    break;
+                                case Branch.EE:
+                                    b = "Dien - Dien tu";
+                                    break;
+                            }
+                        }
+                        @b
+                    </td>
+                    <td>
+                        @{var g = s.Gender == Gender.Male ? "Nam" : "Nu";}
+                        @g
+                    </td>
+                    <td>
+                        @{
+                            var r = s.IsRegular ? "Chinh quy" : "Phi chinh quy";                 
+                        }
+                        @r
+                    </td>
+                    <td>@s.Address</td>
+                    <td>@s.DateOfBirth</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
