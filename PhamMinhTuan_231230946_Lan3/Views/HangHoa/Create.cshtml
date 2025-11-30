@@ -1,0 +1,21 @@
+@{
+    Layout = "PhamMinhTuan_Layout";
+}
+
+<form asp-controller="HangHoa" asp-action="Create" method="post" class="row">
+    <input type="text" name="MaHang" id="mahang" hidden>
+
+    <label for="MaLoai">Ma loai</label>
+    <select name="MaLoai" id="MaLoai" asp-items="@ViewBag.LoaiHangs"></select>
+
+    <label for="TenHang">Ten hang</label>
+    <input type="text" name="TenHang" id="tenhang">
+
+    <label for="Gia">Gia</label>
+    <input type="number" name="Gia" id="gia" min="0">
+
+    <label for="Anh">Anh</label>
+    <input type="text" name="Anh" id="anh">
+
+    <input type="submit" value="Create">
+</form>
