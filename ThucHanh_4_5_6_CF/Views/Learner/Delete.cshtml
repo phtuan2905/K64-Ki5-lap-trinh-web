@@ -1,0 +1,40 @@
+@model Learner
+
+@{
+    ViewData["Title"] = "Delete Learner";
+}
+
+<h2 class="mb-4">Delete Learner</h2>
+
+<div class="alert alert-danger">
+    <strong>Warning!</strong> Are you sure you want to delete this learner?
+</div>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+
+        <dl class="row">
+            <dt class="col-sm-3">Last Name</dt>
+            <dd class="col-sm-9">@Model.LastName</dd>
+
+            <dt class="col-sm-3">First Name</dt>
+            <dd class="col-sm-9">@Model.FirstName</dd>
+
+            <dt class="col-sm-3">Enrollment Date</dt>
+            <dd class="col-sm-9">@Model.EnrollmentDate.ToString("yyyy-MM-dd")</dd>
+
+            <dt class="col-sm-3">Major</dt>
+            <dd class="col-sm-9">@Model.Major?.MajorName</dd>
+        </dl>
+
+        <form asp-action="DeleteLearner" asp-route-id="@Model.LearnerID" method="post">
+            <button type="submit" class="btn btn-danger">
+                <i class="bi bi-trash"></i> Confirm Delete
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">
+                Cancel
+            </a>
+        </form>
+
+    </div>
+</div>

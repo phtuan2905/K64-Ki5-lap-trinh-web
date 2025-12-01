@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/ThucHanh_4_5_6_CF/ThucHanh_4_5_6_CF.csproj": {}
+  },
+  "projects": {
+    "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/ThucHanh_4_5_6_CF/ThucHanh_4_5_6_CF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/ThucHanh_4_5_6_CF/ThucHanh_4_5_6_CF.csproj",
+        "projectName": "ThucHanh_4_5_6_CF",
+        "projectPath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/ThucHanh_4_5_6_CF/ThucHanh_4_5_6_CF.csproj",
+        "packagesPath": "/home/tuan-pham/.nuget/packages/",
+        "outputPath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/ThucHanh_4_5_6_CF/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tuan-pham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

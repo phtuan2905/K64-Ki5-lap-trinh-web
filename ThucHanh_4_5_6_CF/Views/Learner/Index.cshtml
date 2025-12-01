@@ -1,0 +1,73 @@
+@model IEnumerable<Learner>
+
+<div class="container mt-4">
+    @await Component.InvokeAsync("Navbar")
+
+    <h3 class="mb-3">Danh sách Learner</h3>
+    <a type="button" class="btn btn-primary" asp-action="Create">Create</a>
+
+    <div id="content-container">
+        <table class="table table-striped table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Họ</th>
+                    <th>Tên</th>
+                    <th>Ngày ghi danh</th>
+                    <th>Major</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.LearnerID</td>
+                        <td>@item.LastName</td>
+                        <td>@item.FirstName</td>
+                        <td>@item.EnrollmentDate</td>
+                        <td>@item.Major?.MajorName</td>
+                        <td class="text-center">
+                            <a asp-action="Details" asp-route-id="@item.LearnerID" class="btn btn-sm btn-info">Chi tiết</a>
+                            <a asp-action="Update" asp-route-id="@item.LearnerID" class="btn btn-sm btn-warning">Sửa</a>
+                            <a asp-action="Delete" asp-route-id="@item.LearnerID" class="btn btn-sm btn-danger">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <ul class="pagination">
+            @for (var i = 1; i <= ViewBag.TotalPage; i++) {
+                <li class="page-item"><a class="page-link" data-page="@i">@i</a></li>
+            }
+        </ul>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $('a.nav-link').click(function(e) {
+            var id = $(this).attr('id');
+            $.ajax({
+                url: '/Learner/Filter',
+                data: {mid: id},
+                success: function(res) {
+                    $('#content-container').html(res);
+                }
+            });
+        });
+
+        $('body').on('click', 'a.page-link', function(e) {
+            var id = $(this).attr('data-mid');
+            var page = $(this).attr('data-page');
+            $.ajax({
+                url: '/Learner/Filter',
+                data: {mid: id, pageNumber: page},
+                success: function(res) {
+                    $('#content-container').html(res);
+                }
+            });
+        });
+    </script>
+}

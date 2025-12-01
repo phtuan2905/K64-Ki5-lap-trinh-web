@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Update";
+}
+
+@model Learner
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+
+<div class="container mt-4">
+    <h3 class="mb-3">Update Learner</h3>
+
+    <form asp-action="Update" asp-route-id="@Model.LearnerId" method="post" class="row g-3">
+        <input asp-for="LearnerId" class="form-control" value="@Model.LearnerId" hidden/>
+
+        <div class="col-md-6">
+            <label class="form-label">Họ (Last Name)</label>
+            <input asp-for="LastName" class="form-control" value="@Model.LastName" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Tên (First Name)</label>
+            <input asp-for="FirstName" class="form-control" value="@Model.FirstName" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Ngày ghi danh</label>
+            <input asp-for="EnrollmentDate" type="date" class="form-control" value="@ViewBag.EnrollmentDate" />
+            <span asp-validation-for="EnrollmentDate" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Chuyên ngành (Major)</label>
+            <select asp-for="MajorId" asp-items="ViewBag.Majors" class="form-select" value="@Model.MajorId">
+                <option value="">-- Chọn chuyên ngành --</option>
+            </select>
+            <span asp-validation-for="MajorId" class="text-danger"></span>
+        </div>
+
+        <div class="col-12 text-end">
+            <button type="submit" class="btn btn-primary">Update</button>
+            <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+        </div>
+
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+</div>

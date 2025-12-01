@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ThucHanh_4_5_6_CF.props" />
+</Project>

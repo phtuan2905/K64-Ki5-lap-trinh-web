@@ -1,0 +1,53 @@
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    @model Learner
+
+<div class="container mt-4">
+    <h3 class="mb-3">Tạo Learner mới</h3>
+
+    <form asp-action="Create" method="post" class="row g-3">
+
+        <div class="col-md-6">
+            <label class="form-label">Họ (Last Name)</label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Tên (First Name)</label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Ngày ghi danh</label>
+            <input asp-for="EnrollmentDate" type="date" class="form-control" />
+            <span asp-validation-for="EnrollmentDate" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Chuyên ngành (Major)</label>
+            <select asp-for="MajorID" asp-items="ViewBag.Majors" class="form-select">
+                <option value="">-- Chọn chuyên ngành --</option>
+            </select>
+            <span asp-validation-for="MajorID" class="text-danger"></span>
+        </div>
+
+        <div class="col-12 text-end">
+            <button type="submit" class="btn btn-primary">Tạo mới</button>
+            <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+        </div>
+
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+</div>
