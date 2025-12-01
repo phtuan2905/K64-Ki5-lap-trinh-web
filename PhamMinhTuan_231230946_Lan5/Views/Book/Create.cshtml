@@ -1,0 +1,53 @@
+@model Book
+
+<form asp-controller="Book" asp-action="Create" method="post" class="row">
+    <div class="mb-5">
+        <label for="Title">Title</label>
+        <input type="text" name="Title" id="title" asp-for="Title">
+        <span asp-validation-for="Title"></span>
+    </div>
+
+    <div class="mb-5">
+        <label for="Author">Author</label>
+        <input type="text" name="Author" id="Author" asp-for="Author">
+        <span asp-validation-for="Author"></span>
+    </div>
+
+    <div class="mb-5">
+        <label for="Release">Release</label>
+        <input type="number" name="Release" id="Release" asp-for="Release" min="0">
+        <span asp-validation-for="Release"></span>
+    </div>
+
+    <div class="mb-5">
+        <label for="Release">Price</label>
+        <input type="number" name="Price" id="Price" asp-for="Price" min="0">
+        <span asp-validation-for="Price"></span>
+    </div>
+
+    <div class="mb-5">
+        <label for="Description">Description</label>
+        <input type="text" name="Description" id="Description" asp-for="Description">
+        <span asp-validation-for="Description"></span>
+    </div>
+
+    <div class="mb-5">
+        <label for="Picture">Picture</label>
+        <input type="text" name="Picture" id="Picture" asp-for="Picture">
+        <span asp-validation-for="Picture"></span>
+    </div>
+
+    <div class="mb-5">
+        <label for="PublisherId">Publisher</label>
+        <select name="PublisherId" id="PublisherId" asp-items="@ViewBag.Publishers"></select>
+        <span asp-validation-for="PublisherId"></span>
+    </div>
+
+    <div class="mb-5">
+        <label for="CategoryId">Category</label>
+        <select name="CategoryId" id="CategoryId" asp-items="@ViewBag.Categories"></select>
+        <span asp-validation-for="CategoryId"></span>
+    </div>
+
+    <button type="submit">Create</button>
+</form>

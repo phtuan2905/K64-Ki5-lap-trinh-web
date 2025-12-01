@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using PhamMinhTuan_231230946_Lan5.Models;
+
+namespace PhamMinhTuan_231230946_Lan5.ViewComponents
+{
+    public class NavbarViewComponent : ViewComponent
+    {
+        public PmtBookStoreDbContext db;
+        public List<Category> categories = new List<Category>();
+
+        public NavbarViewComponent(PmtBookStoreDbContext context)
+        {
+            db = context;
+            categories = db.Categories.ToList();
+        }
+
+        public async Task<IViewComponentResult> InvokeAsync()
+        {
+            return View("Index", categories);
+        }
+    }
+}
