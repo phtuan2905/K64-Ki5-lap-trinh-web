@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Chung Trịnh</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/tvc-font.css">
+    <link rel="stylesheet" href="/css/tvc-style.css">
+</head>
+<body>
+    <partial name="PhamMinhTuan_Header"/>
+
+    <section id="tvc-pro" class="mb-5">
+        <div class="container">
+            @RenderBody()
+        </div>
+    </section>
+    
+    <partial name="PhamMinhTuan_Footer"/>
+
+    <script src="/js/jquery-3.7.1.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,31 @@
+@model Sach
+
+<form asp-controller="Sach" asp-action="Create" method="post" class="row">
+    <div>
+        <label for="TenSach">Ten Sach</label>
+        <input type="text" name="TenSach" id="ten-sach" asp-for="TenSach">
+        <span asp-validation-for="TenSach"></span>
+    </div>
+
+    <div>
+        <label for="DonGia">Don gia</label>
+        <input type="number" name="DonGia" id="don-gia" asp-for="DonGia">
+        <span asp-validation-for="DonGia"></span>
+    </div>
+
+    <div>
+        <label for="NamXuatBan">Nam xuat ban</label>
+        <input type="number" name="NamXuatBan" id="nam-xuat-ban" asp-for="NamXuatBan">
+        <span asp-validation-for="NamXuatBan"></span>
+    </div>
+    
+    <div>
+        <label for="LoaiHangId">Loai hang</label>
+        <select name="LoaiHangId" id="loai-hang-id" asp-for="LoaiHangId" asp-items="@ViewBag.LoaiHangs">
+            <option value="">--Chon Loai Hang--</option>
+        </select>
+        <span asp-validation-for="LoaiHangId"></span>
+    </div>
+
+    <button type="submit">Create</button>
+</form>

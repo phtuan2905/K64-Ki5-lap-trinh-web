@@ -1,0 +1,44 @@
+@using System.Collections
+@model IEnumerable<Sach>
+
+<div class="row">
+    <h2 class="text-center my-2 py-2">SÁCH BÁN CHẠY - PHAM MINH TUAN</h2>
+</div>
+<div class="row" id="content-container">
+    @foreach (var s in Model) {
+        <div class="col-12 col-sm-6 col-md-4 my-2 my-md-0">
+            <div class="item ">
+                <div class="img">
+                <img src="/images/books/1.jpg" alt="1" class="w-100" />
+                </div>
+                <div class="item-content flex-column ">
+                    <h4 class="text-center pt-2">
+                        <a href="#" class="d-block text-white">
+                            @s.TenSach
+                        </a>
+                    </h4>
+                    <div class="text-yellow d-flex justify-content-between px-3 pb-2 w-100">
+                        <span>$ @s.DonGia</span> 
+                        <span>Xuất bản: @s.NamXuatBan</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+@section Scripts {
+    <script>
+        $('a.nav-link').click(function(e) {
+            var id = $(this).attr('id');
+            $.ajax({
+                url: 'Sach/Filter',
+                data: {mlh: id},
+                success: function(res) {
+                    $('#content-container').html(res);
+                }
+            });
+        });
+    </script>
+}
