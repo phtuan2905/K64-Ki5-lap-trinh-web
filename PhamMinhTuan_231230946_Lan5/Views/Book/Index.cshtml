@@ -4,6 +4,11 @@
     <h2 class="text-center my-2 py-2">SÁCH BÁN CHẠY - PHAM MINH TUAN</h2>
 </div>
 
+<div>
+    <input type="text" name="" id="search-input">
+    <button type="button" id="search-btn">Search</button>
+</div>
+
 <div class="row" id="content-container">
     @foreach (var b in Model) {
             <div class="col-12 col-sm-6 col-md-4 my-2 my-md-0">
@@ -25,12 +30,36 @@
                 </div>
             </div>
     }
+
+</div>
+
+<div>
+    <input type="text" name="" id="filter-holder" value="@ViewBag.Filter">
+    <input type="text" name="" id="keyword-holder" value="@ViewBag.Keyword">
+    <ul class="pagination">
+        @for (int i = 1; i <= ViewBag.TotalPage; i++) {
+            <li class="page-item"><a class="page-link">@i</a></li>
+        }
+    </ul>
 </div>
 
 @section Scripts {
     <script>
         $('a.nav-link').click(function(e) {
             var id = $(this).attr('id');
+            $('#filter-holder').val(id);
+            $.ajax({
+                url: 'Book/Filter',
+                data: {cid: id},
+                success: function(res) {
+                    $('#content-container').html(res);
+                }
+            });
+        });
+
+        $('.btn#search-btn').click(function(e) {
+            var id = $('#filter-holder').val(id);
+            
             $.ajax({
                 url: 'Book/Filter',
                 data: {cid: id},

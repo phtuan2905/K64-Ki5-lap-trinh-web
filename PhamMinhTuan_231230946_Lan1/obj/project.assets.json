@@ -4047,11 +4047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan1/PhamMinhTuan_231230946_Lan1.csproj",
+      "projectUniqueName": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan1/PhamMinhTuan_231230946_Lan1.csproj",
       "projectName": "PhamMinhTuan_231230946_Lan1",
-      "projectPath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan1/PhamMinhTuan_231230946_Lan1.csproj",
+      "projectPath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan1/PhamMinhTuan_231230946_Lan1.csproj",
       "packagesPath": "/home/tuan-pham/.nuget/packages/",
-      "outputPath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan1/obj/",
+      "outputPath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tuan-pham/.nuget/NuGet/NuGet.Config"

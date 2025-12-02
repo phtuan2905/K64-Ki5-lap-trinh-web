@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LPY+Z/Kzh+DHMz5zHyYk4rD9FbXqHuNti6ovihRRBwU=",
+  "Hash": "o0dPOmypGIdBtH0kCtPBTyBlQxxsEM5qgGQ/vXUf3us=",
   "Source": "PhamMinhTuan_231230946_Lan2",
   "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PhamMinhTuan_231230946_Lan2/wwwroot",
       "Source": "PhamMinhTuan_231230946_Lan2",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/bundle/PhamMinhTuan_231230946_Lan2.styles.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/bundle/PhamMinhTuan_231230946_Lan2.styles.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Computed",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "PhamMinhTuan_231230946_Lan2.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/bundle/PhamMinhTuan_231230946_Lan2.styles.css"
+      "OriginalItemSpec": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/bundle/PhamMinhTuan_231230946_Lan2.styles.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/projectbundle/PhamMinhTuan_231230946_Lan2.bundle.scp.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/projectbundle/PhamMinhTuan_231230946_Lan2.bundle.scp.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Computed",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "PhamMinhTuan_231230946_Lan2.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/projectbundle/PhamMinhTuan_231230946_Lan2.bundle.scp.css"
+      "OriginalItemSpec": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/obj/Debug/net8.0/scopedcss/projectbundle/PhamMinhTuan_231230946_Lan2.bundle.scp.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/easy-responsive-tabs.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/easy-responsive-tabs.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/css/easy-responsive-tabs.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/Content/css/easy-responsive-tabs.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/global.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/global.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/css/global.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/Content/css/global.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/slider.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/slider.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/css/slider.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/Content/css/slider.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/style.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/css/style.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/css/style.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/Content/css/style.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/font/Amble-Regular-webfont.ttf",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/font/Amble-Regular-webfont.ttf",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/font/Amble-Regular-webfont.ttf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/Content/font/Amble-Regular-webfont.ttf"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/about_img.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/about_img.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/about_img.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/about_img.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/arrow_up.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/arrow_up.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/arrow_up.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/arrow_up.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/arrow-next.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/arrow-next.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/arrow-next.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/arrow-next.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/arrow-prev.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/arrow-prev.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/arrow-prev.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/arrow-prev.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/compare.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/compare.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/compare.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/compare.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/delivery-img1.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/delivery-img1.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/delivery-img1.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/delivery-img1.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/delivery-img2.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/delivery-img2.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/delivery-img2.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/delivery-img2.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/delivery-img3.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/delivery-img3.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/delivery-img3.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/delivery-img3.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/dribbble.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/dribbble.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/dribbble.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/dribbble.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/drop_arrow-hover.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/drop_arrow-hover.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/drop_arrow-hover.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/drop_arrow-hover.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/drop_arrow.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/drop_arrow.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/drop_arrow.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/drop_arrow.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/facebook.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/facebook.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/facebook.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/facebook.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic1.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic1.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/feature-pic1.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/feature-pic1.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic2.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic2.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/feature-pic2.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/feature-pic2.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic3.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic3.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/feature-pic3.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/feature-pic3.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic4.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/feature-pic4.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/feature-pic4.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/feature-pic4.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_1.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_1.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/Img_1.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/Img_1.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_2.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_2.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/Img_2.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/Img_2.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_3.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_3.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/Img_3.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/Img_3.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_4.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_4.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/Img_4.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/Img_4.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_5.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_5.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/Img_5.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/Img_5.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_6.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Img_6.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/Img_6.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/Img_6.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/linkedin.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/linkedin.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/linkedin.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/linkedin.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/list-img.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/list-img.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/list-img.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/list-img.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/logo.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/logo.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/logo.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/logo.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic1.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic1.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/new-pic1.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/new-pic1.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic2.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic2.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/new-pic2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/new-pic2.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic3.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic3.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/new-pic3.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/new-pic3.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic4.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/new-pic4.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/new-pic4.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/new-pic4.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/newsimg1.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/newsimg1.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/newsimg1.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/newsimg1.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/newsimg2.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/newsimg2.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/newsimg2.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/newsimg2.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/newsimg3.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/newsimg3.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/newsimg3.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/newsimg3.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/preview.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/preview.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/preview.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/preview.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/price-rating.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/price-rating.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/price-rating.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/price-rating.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-1.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-1.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/productslide-1.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/productslide-1.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-2.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-2.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/productslide-2.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/productslide-2.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-3.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-3.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/productslide-3.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/productslide-3.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-4.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-4.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/productslide-4.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/productslide-4.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-5.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-5.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/productslide-5.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/productslide-5.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-6.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/productslide-6.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/productslide-6.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/productslide-6.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/quality-rating.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/quality-rating.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/quality-rating.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/quality-rating.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/search.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/search.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/search.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/search.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/skype.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/skype.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/skype.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/skype.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/slide-1-image.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/slide-1-image.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/slide-1-image.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/slide-1-image.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/slide-2-image.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/slide-2-image.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/slide-2-image.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/slide-2-image.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/slide-3-image.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/slide-3-image.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/slide-3-image.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/slide-3-image.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/tag.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/tag.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/tag.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/tag.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-1.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-1.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/thumbnailslide-1.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/thumbnailslide-1.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-2.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-2.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/thumbnailslide-2.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/thumbnailslide-2.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-3.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-3.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/thumbnailslide-3.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/thumbnailslide-3.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-4.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-4.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/thumbnailslide-4.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/thumbnailslide-4.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-5.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-5.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/thumbnailslide-5.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/thumbnailslide-5.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-6.jpg",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/thumbnailslide-6.jpg",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/thumbnailslide-6.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/thumbnailslide-6.jpg"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Thumbs.db",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/Thumbs.db",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/Thumbs.db",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/Thumbs.db"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/twitter.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/twitter.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/twitter.png",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/twitter.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/value-rating.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/value-rating.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/value-rating.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/value-rating.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/wishlist.png",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Content/images/wishlist.png",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Content/images/wishlist.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/Content/images/wishlist.png"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/css/site.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/css/site.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/favicon.ico",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/favicon.ico",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/js/site.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/js/site.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/easing.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/easing.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/easing.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/easing.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/easyResponsiveTabs.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/easyResponsiveTabs.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/easyResponsiveTabs.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/easyResponsiveTabs.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/jquery-1.7.2.min.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/jquery-1.7.2.min.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/jquery-1.7.2.min.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/jquery-1.7.2.min.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/jquery.accordion.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/jquery.accordion.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/jquery.accordion.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/jquery.accordion.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/jquery.easing.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/jquery.easing.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/jquery.easing.js",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/jquery.easing.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/move-top.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/move-top.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/move-top.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/move-top.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/script.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/script.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/script.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/script.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/slides.min.jquery.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/slides.min.jquery.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/slides.min.jquery.js",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot/Script/js/slides.min.jquery.js"
     },
     {
-      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/startstop-slider.js",
+      "Identity": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/Script/js/startstop-slider.js",
       "SourceId": "PhamMinhTuan_231230946_Lan2",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan2/wwwroot/",
+      "ContentRoot": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan2/wwwroot/",
       "BasePath": "_content/PhamMinhTuan_231230946_Lan2",
       "RelativePath": "Script/js/startstop-slider.js",
       "AssetKind": "All",

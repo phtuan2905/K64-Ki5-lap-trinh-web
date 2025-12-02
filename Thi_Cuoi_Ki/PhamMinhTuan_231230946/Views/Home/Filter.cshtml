@@ -1,0 +1,35 @@
+@using System.Collections
+@model IEnumerable<Chuyen>
+
+@foreach (var c in Model) {
+    <tr>
+        <td>
+        <div class="d-flex align-items-center">
+        <div class="me-4">
+            <img
+            src="/images/cars/@c.SoXeNavigation.Anh"
+            width="50"
+            class="rounded-circle"
+            alt=""
+            />
+        </div>
+
+        <div>
+            <h6 class="mb-1 fw-bolder">@c.MaTuyen</h6>
+            <p class="fs-3 mb-0">@c.SoXe</p>
+        </div>
+        </div>
+    </td>
+    <td>
+        <p class="fs-3 fw-normal mb-0">@c.NgayGio.Value.ToString("dd/MM/yyyy")</p>
+    </td>
+    <td>
+        <p class="fs-3 fw-normal mb-0 text-success">
+        @c.NgayGio.Value.ToString("hh:mm:ss")
+        </p>
+    </td>
+    <td>
+        <span>Edit|Delete</span>
+    </td>
+    </tr>
+}

@@ -1,0 +1,30 @@
+@model Chuyen
+
+<h1>Edit</h1>
+<hr>
+<form asp-controller="Home" asp-action="Edit" asp-route-cid="@Model.MaChuyen" method="post" class="row">
+    <input type="text" name="MaChuyen" id="MaChuyen" value="@Model.MaChuyen" hidden>
+    <div class="mb-5">
+        <label for="MaTuyen">MaTuyen</label>
+        <input type="text" name="MaTuyen" id="MaTuyen" asp-for="MaTuyen" value="@Model.MaTuyen">
+        <span asp-validation-for="MaTuyen"></span>
+    </div>
+    <div class="mb-5">
+        <label for="SoXe">SoXe</label>
+        <input type="text" name="SoXe" id="SoXe" asp-for="SoXe" value="@Model.SoXe">
+        <span asp-validation-for="SoXe"></span>
+    </div>
+    <div class="mb-5">
+        <label for="MaLaiXe">MaLaiXe</label>
+        <input type="text" name="MaLaiXe" id="MaLaiXe" asp-for="MaLaiXe" value="@Model.MaLaiXe">
+        <span asp-validation-for="MaLaiXe"></span>
+    </div>
+    <div class="mb-5">
+        <label for="NgayGio">NgayGio</label>
+        <input type="datetime" name="NgayGio" id="NgayGio" asp-for="NgayGio" value="@Model.NgayGio">
+        <span asp-validation-for="NgayGio"></span>
+    </div>
+
+    <button type="submit">Save</button>
+    <button asp-controller="Home" asp-action="Index">Back</button>
+</form>

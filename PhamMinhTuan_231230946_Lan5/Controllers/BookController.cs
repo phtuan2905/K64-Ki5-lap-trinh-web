@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using PhamMinhTuan_231230946_Lan5.Models;
 
@@ -30,7 +31,7 @@ namespace PhamMinhTuan_231230946_Lan5.Controllers
         [HttpGet("Filter")]
         public IActionResult Filter(int cid)
         {
-            var books = db.Books.Where(b => b.Price >= 100 && b.CategoryId == cid).ToList();
+            var books = db.Books.Include(b => b.Author).Where(b => b.Price >= 100 && b.CategoryId == cid).ToList();
             return PartialView("FilterTable", books);
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X0tMV5vojZhKp5Cfu8AXFYE+abenujOCQtfqh6MgDJHmnL01BJ6pHZia0mV2Nf58p02NyYPnJ2LTbzTT/ElKsw==",
+  "dgSpecHash": "zOuXGsglZrG58QmkdvYQX3QSZSkUvuecoirJJeqroUugKG2FdaWGBsA/+HoaM7cp4kbF0yBq79rBZXN13XfEag==",
   "success": true,
-  "projectFilePath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/PhamMinhTuan_231230946_Lan1/PhamMinhTuan_231230946_Lan1.csproj",
+  "projectFilePath": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan1/PhamMinhTuan_231230946_Lan1.csproj",
   "expectedPackageFiles": [
     "/home/tuan-pham/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/tuan-pham/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

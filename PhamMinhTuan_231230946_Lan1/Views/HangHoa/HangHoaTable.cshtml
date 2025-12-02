@@ -17,3 +17,13 @@
         </div>
     }
 </div>
+
+    <div>
+        <input type="text" name="" id="filter-holder" value="@ViewBag.Filter" >
+        <input type="text" name="" id="keyword-holder" value="@ViewBag.Keyword" >
+        <ul class="pagination">
+            @for (int i = 1; i <= ViewBag.TotalPage; i++) {
+                <li class="page-item"><a class="page-link">@i</a></li>
+            }
+        </ul>
+    </div>

@@ -15,6 +15,7 @@ namespace PhamMinhTuan_231230946_Lan1.Controllers
     {
         private QlhangHoaContext db;
         private readonly ILogger<HangHoaController> _logger;
+        private int pageSize = 5;
 
         public HangHoaController(ILogger<HangHoaController> logger, QlhangHoaContext _context)
         {
@@ -25,21 +26,31 @@ namespace PhamMinhTuan_231230946_Lan1.Controllers
         [HttpGet("")]
         public IActionResult Index()
         {
-            var hangHoas = db.HangHoas.Where(h => h.Gia >= 100).ToList();
+            var totalHangHoas = db.HangHoas.Where(h => h.Gia >= 100).ToList();
+            ViewBag.TotalPage = (int)Math.Ceiling(totalHangHoas.Count / (float)pageSize);
+            var hangHoas = db.HangHoas.Take(pageSize).Where(h => h.Gia >= 100).ToList();
             return View("Index", hangHoas);
         }
 
         [HttpGet("Filter")]
-        public IActionResult HangHoaTable(int mlh)
+        public IActionResult HangHoaTable(int mlh = -1, string keyword = "", int pageNumber = 1)
         {
-            if (mlh == null)
+            if (mlh == -1)
             {
-                var hangHoas = db.HangHoas.Where(h => h.Gia >= 100).ToList();
+                var totalHangHoas = db.HangHoas.Where(h => h.Gia >= 100 && h.TenHang.ToLower().Contains(keyword)).ToList();
+                var hangHoas = db.HangHoas.Where(h => h.Gia >= 100 && h.TenHang.ToLower().Contains(keyword)).Skip(pageSize * (pageNumber - 1)).Take(pageSize).ToList();
+                ViewBag.TotalPage = (int)Math.Ceiling(totalHangHoas.Count / (float)pageSize);
+                ViewBag.Filter = mlh;
+                ViewBag.keyword = keyword;
                 return PartialView("HangHoaTable", hangHoas);
             }
             else
             {
-                var hangHoas = db.HangHoas.Where(h => h.Gia >= 100 && h.MaLoai == mlh).ToList();
+                var totalHangHoas = db.HangHoas.Where(h => h.Gia >= 100 && h.MaLoai == mlh && h.MaLoai == mlh).ToList();
+                var hangHoas = db.HangHoas.Where(h => h.Gia >= 100 && h.MaLoai == mlh && h.TenHang.ToLower().Contains(keyword)).Skip(pageSize * (pageNumber - 1)).Take(pageSize).ToList();
+                ViewBag.TotalPage = (int)Math.Ceiling(totalHangHoas.Count / (float)pageSize);
+                ViewBag.Filter = mlh;
+                ViewBag.keyword = keyword;
                 return PartialView("HangHoaTable", hangHoas);
             }
         }

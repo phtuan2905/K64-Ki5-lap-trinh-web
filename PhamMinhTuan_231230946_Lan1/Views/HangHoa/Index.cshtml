@@ -10,6 +10,10 @@
     </div>
     <div class="clear"></div>
 </div>
+<div class="col">
+    <input type="text" name="" id="search-input">
+    <button class="btn btn-primary" id="search-btn">Search</button>
+</div>
 <div id="content-container">
     <div class="section group">
         @foreach (var h in @Model) {
@@ -28,12 +32,23 @@
             </div>
         }
     </div>
+
+    <div>
+        <input type="text" name="" id="filter-holder" value="@ViewBag.Filter" >
+        <input type="text" name="" id="keyword-holder" value="@ViewBag.Keyword" >
+        <ul class="pagination">
+            @for (int i = 1; i <= ViewBag.TotalPage; i++) {
+                <li class="page-item"><a class="page-link">@i</a></li>
+            }
+        </ul>
+    </div>
 </div>
 
 @section Scripts {
     <script>
         $('li.filter').click(function (e) {
             var id = $(this).attr('id');
+            $('#filter-holder').val(id);
             $.ajax({
                 url: "HangHoa/Filter",
                 data: {mlh: id},
@@ -42,5 +57,33 @@
                 }
             });
         });
+
+        $('button#search-btn').click(function (e) {
+            var id = $('#filter-holder').val();
+            var keyword = $('#search-input').val();
+            $('keyword-holder').val(keyword);
+            $.ajax({
+                url: "HangHoa/Filter",
+                data: {mlh: id, keyword: keyword},
+                success: function(res) {
+                    $("#content-container").html(res);
+                }
+            });
+        });
+
+        $(document).on('click', 'li.page-item', 
+            function(e) {
+                var id = $('#filter-holder').val();
+                var keyword = $('#keyword-holder').val();
+                var pageNumber = $(this).text();
+                $.ajax({
+                    url: "HangHoa/Filter",
+                    data: {mlh: id, keyword: keyword, pageNumber: pageNumber},
+                    success: function(res) {
+                        $("#content-container").html(res);
+                    }
+                });
+            }
+        );
     </script>
 }

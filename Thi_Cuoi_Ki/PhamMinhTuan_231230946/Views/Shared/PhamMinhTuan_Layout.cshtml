@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Spike2512V1</title>
+  <link rel="shortcut icon" type="/image/png" href="/images/logos/favicon.png" />
+  <link rel="stylesheet" href="/css/styles.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PhamMinhTuan_231230946.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+  <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+    data-sidebar-position="fixed" data-header-position="fixed">
+    <!-- LeftSidebar Start -->
+    <partial name="_LeftSideBar"/>
+    <!--  LeftSidebar End -->
+    <div class="body-wrapper">
+      <!--  Header Start -->
+      
+    <partial name="_Header"/>
+      <!--  Header End -->
+      <!-- Main Start -->
+      <main id="main" class="container-fluid">
+        <div class="card w-100">
+            @RenderBody()
+        </div>       
+    </main>
+      <!-- Main End -->
+      <!-- Footer Start -->
+      
+    <partial name="_Footer"/>
+      <!-- Footer End -->
+    </div>
+  </div>
+  <script src="/libs/jquery/dist/jquery.min.js"></script>
+  <script src="/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/js/app.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
