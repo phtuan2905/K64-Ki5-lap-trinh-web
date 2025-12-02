@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/obj/Debug/net8.0/scopedcss/projectbundle/PhamMinhTuan_231230946_Lan6.bundle.scp.css",
+      "PackagePath": "staticwebassets/PhamMinhTuan_231230946_Lan6.bundle.scp.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/css/tvc-font.css",
+      "PackagePath": "staticwebassets/css/tvc-font.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/css/tvc-style.css",
+      "PackagePath": "staticwebassets/css/tvc-style.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/fontS/Amble-Regular-webfont.ttf",
+      "PackagePath": "staticwebassets/fontS/Amble-Regular-webfont.ttf"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/fontS/UVNBaiSau_B.TTF",
+      "PackagePath": "staticwebassets/fontS/UVNBaiSau_B.TTF"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/1.jpg",
+      "PackagePath": "staticwebassets/images/books/1.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/10.jpg",
+      "PackagePath": "staticwebassets/images/books/10.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/11.jpg",
+      "PackagePath": "staticwebassets/images/books/11.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/12.jpg",
+      "PackagePath": "staticwebassets/images/books/12.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/2.jpg",
+      "PackagePath": "staticwebassets/images/books/2.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/3.jpg",
+      "PackagePath": "staticwebassets/images/books/3.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/4.jpg",
+      "PackagePath": "staticwebassets/images/books/4.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/5.jpg",
+      "PackagePath": "staticwebassets/images/books/5.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/6.jpg",
+      "PackagePath": "staticwebassets/images/books/6.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/7.jpg",
+      "PackagePath": "staticwebassets/images/books/7.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/8.jpg",
+      "PackagePath": "staticwebassets/images/books/8.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/books/9.jpg",
+      "PackagePath": "staticwebassets/images/books/9.jpg"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/images/logo-devmaster.png",
+      "PackagePath": "staticwebassets/images/logo-devmaster.png"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/js/jquery-3.7.1.js",
+      "PackagePath": "staticwebassets/js/jquery-3.7.1.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/tuan-pham/Documents/DH_Ki_5/LTW/K64-Ki5-lap-trinh-web/PhamMinhTuan_231230946_Lan6/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PhamMinhTuan_231230946_Lan6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PhamMinhTuan_231230946_Lan6.props",
+      "PackagePath": "build\\PhamMinhTuan_231230946_Lan6.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PhamMinhTuan_231230946_Lan6.props",
+      "PackagePath": "buildMultiTargeting\\PhamMinhTuan_231230946_Lan6.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PhamMinhTuan_231230946_Lan6.props",
+      "PackagePath": "buildTransitive\\PhamMinhTuan_231230946_Lan6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
